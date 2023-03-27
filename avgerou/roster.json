@@ -11,20 +11,20 @@
   },
   "students": [
     {
-      "name": "Tom Burzynski",
-      "github": "Tellur89"
-    },
-    {
       "name": "Diego Ramos",
       "github": "diegorramos84"
     },
     {
       "name": "Tomislav Dinev ",
       "github": "dinevtomislav"
-     },
-     {
+    },
+    {
       "name": "Mithurssan Santhirakumar",
       "github": "mithurssan"
+    },
+    {
+      "name": "Tom Burzynski",
+      "github": "Tellur89"
     }
   ]
 }
